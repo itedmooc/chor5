@@ -17,8 +17,8 @@ function Header() {
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><Link class="nav-link" to="/">หน้าแรก</Link></li>
                         <li class="nav-item"><a class="nav-link" href="#project">วัตถุประสงค์</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#step">ขั้นตอนการทำ</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#calendar">กำหนดการบันทึก</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#step">ประเภทผลงาน</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#calendar">กำหนดการ</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">ติดต่อสอบถาม</a></li>
                         {/* <li class="nav-item"><Link class="nav-link" to="StepProcess">ขั้นตอนการทำงาน</Link></li> */}
                         <li class="nav-item"><a class="nav-link bround" href="https://forms.gle/sitH91WHRMiN1z4n7" target="noopener">ส่งหัวข้อรายวิชา</a></li>

@@ -7,7 +7,7 @@ function Calendar() {
         <div class="container px-4 px-lg-5">
           <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-lg-12">
-              <h2 class="text-black mb-4">ตารางบันทึกวีดิทัศน์</h2>
+              <h2 class="text-black mb-4">กำหนดการ</h2>
               <br></br>
               <div class="googleCalendar googleCalendar iframe overflow-hidden">
                 <iframe

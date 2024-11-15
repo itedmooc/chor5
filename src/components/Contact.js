@@ -11,9 +11,9 @@ function Contact() {
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-map-marked-alt mb-2"></i>
-                                <h4 class="text-uppercase m-0">ติดต่อ</h4>
+                                <h4 class="text-uppercase m-0">ข้อมูลติดต่อ</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50">สถาบันการอาชีวศึกษาภาคเหนือ 3 เลขที่ 410 ถนน พิษณุโลก-บึงพระ ตำนล บึงพระ อำเภอเมืองพิษณุโลก จังหวัดพิษณุโลก 65000</div>
+                                <div class="small text-black-50">สถาบันการอาชีวศึกษาภาคเหนือ 3 <br></br>เลขที่ 410 ถนน พิษณุโลก-บึงพระ ตำนล บึงพระ อำเภอเมืองพิษณุโลก จังหวัดพิษณุโลก 65000</div>
                             </div>
                         </div>
                     </div>
