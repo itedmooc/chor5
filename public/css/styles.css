@@ -11097,7 +11097,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 100%, rgba(255, 255, 255, 0) 75%, #000 100%), url("../assets/img/bg-mooc-blue.png");
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 100%, rgba(255, 255, 255, 0) 75%, #000 100%), url("../assets/img/bg-blackorange.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11277,7 +11277,7 @@ body {
 .th {
   border: 1px solid #000;
   border-collapse: collapse;
-  background-color: #235877;
+  background-color: #fd7e14;
 }
 
 .calendar {
@@ -11298,7 +11298,7 @@ body {
 
 .parallax {
   /* The image used */
-  background-image: url("../assets/img/bg-mooc-blue.png");
+  background-image: url("../assets/img/bg-blackorange.png");
 
   /* Set a specific height */
   min-height: 500px; 
@@ -11355,7 +11355,7 @@ body {
   z-index: 20;
 }
 .icon-style{
-  background-color: #000033;
+  background-color: #fd7e14;
   border: 2px solid #fff;
   border-radius: 50%;
   height: 50px;

@@ -20,14 +20,10 @@ function Contact() {
                     <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
-                                <i class="fas fa-envelope mb-2"></i>
-                                <h4 class="text-uppercase m-0">QR Code ส่งบทความ</h4>
+                                <i class="fa-brands fa-facebook mb-2"></i>
+                                <h4 class="text-uppercase m-0">Facebook</h4>
                                 <hr class="my-4 mx-auto" />
-                                <img
-                                    class="img-fluid"
-                                    src="assets/img/19201080.png"
-                                    alt="..."
-                                />
+                                <div class="small text-black-50"><a class="text-black-50" href="https://www.facebook.com/profile.php?id=100063697356016">สถาบันการอาชีวศึกษาภาคตะวันออกเฉียงเหนือ5 </a></div>
                             </div>
                         </div>
                     </div>

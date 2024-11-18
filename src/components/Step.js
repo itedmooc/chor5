@@ -6,6 +6,7 @@ function Step() {
       <section class="projects-section bg-gray">
         <div class="container px-4 px-lg-5">
           {/* <!-- Project One Row--> */}
+          <br id="step1"></br><br></br><br></br>
           <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
             <h3 class="text-center textpad">ประเภทของการนำเสนอ</h3>
             <div class="col-lg-6">
@@ -62,7 +63,7 @@ function Step() {
               />
             </div>
           </div>
-          <br></br><br id="step"></br>
+          <br id="step2"></br><br></br><br></br>
           <h3 class="text-center text-black textpad">ประเภทของผลงาน</h3>
           {/* <!-- Project Two Row--> */}
           <div class="row gx-0 justify-content-center">
@@ -117,9 +118,9 @@ function Step() {
               <div class="bg-white text-center h-100 project">
                 <div class="d-flex h-100">
                   <div class="project-text w-100 my-auto text-center text-lg-right">
-                    <h4 class="text-black">ลักษณะคุณภาพผ่านการประเมินชั้นเทคโนโลยีในระดับ 3</h4>
+                    <h5 class="text-black">ลักษณะคุณภาพผ่านการประเมิน<br></br>ชั้นเทคโนโลยีในระดับ 3</h5>
                     <p class="mb-0 text-black-50">
-                      (Technology Readiness Level: TRL) <br></br>{" "}
+                      (Technology Readiness Level: TRL) <br></br>
                       เป็นไปตามเกณฑ์ประกาศ ก.พ.อ. เรื่อง หลักเกณฑ์และวิธีการพิจารณาแต่งตั้งบุคคลให้ดำรงตำแหน่ง
                       ผู้ช่วยศาสตราจารย์ รองศาสตราจารย์ และศาสตราจารย์ พ.ศ. 2564
                       และประกาศคณะกรรมการมาตรฐานการอุดมศึกษา เรื่อง เกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. 2564 <br></br>
@@ -132,6 +133,7 @@ function Step() {
           </div>
           <br></br><br></br>
           <br></br> <br></br> <br></br>
+
           {/* <!-- Project One Row--> */}
           {/* <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
                     <div><h3 class="text-black text-center">กระบวนการทำสื่อ</h3><br></br></div>
@@ -210,7 +212,7 @@ function Step() {
                 </div> */}
           <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
             <div>
-                <br></br>
+                <br id="price"></br><br></br><br></br><br></br>
               <h3 class="text-black text-center">อัตราค่าลงทะเบียน</h3>
               <br></br>
             </div>
@@ -233,7 +235,7 @@ function Step() {
                     <center>1</center>
                   </td>
                   <td class="td text-black">
-                    บุคคลทั่วไป /บุคลากรนอกสังกัดสถาบันการอาชีวศึกษาภาคเหนือ 3
+                    บุคคลทั่วไป /บุคลากรนอกสังกัดสถาบันการอาชีวศึกษาภาคตะวันออกเฉียงเหนือเหนือ 3
                   </td>
                   <td class="td">
                     <center>3000 บาท</center>
@@ -270,7 +272,7 @@ function Step() {
                     <center>1</center>
                   </td>
                   <td class="td text-black">
-                    บุคคลทั่วไป /บุคลากรนอกสังกัดสถาบันการอาชีวศึกษาภาคเหนือ 3
+                    บุคคลทั่วไป /บุคลากรนอกสังกัดสถาบันการอาชีวศึกษาภาคตะวันออกเฉียงเหนือ 3
                   </td>
                   <td class="td">
                     <center>500 บาท</center>
@@ -291,6 +293,12 @@ function Step() {
             </div>
           </div>
         </div>
+        <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+            <h3 class="text-center textpad">QR Code สำหรับส่งผลงาน</h3>
+            <div class="col-lg-3">
+              <img class="img-fluid" src="assets/img/qr.png" alt="..." />
+            </div>
+          </div>    
       </section>
       {/* <section class="signup-section" id="signup">
             <div class="container px-4 px-lg-5">
