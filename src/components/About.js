@@ -9,6 +9,7 @@ function About() {
           <div class="container px-4 px-lg-5">
             <div class="row gx-4 gx-lg-5 justify-content-center">
               <div class="col-lg-8">
+                <br></br><br></br><br></br><br></br>
                 <h1 class="text-white mb-4">เปิดรับสมัคร!!</h1>
                 <p class="text-white mb-4">
                   สมัครลงทะเบียน วันนี้ - 27 กุมภาพันธ์ 2568 <br></br>
